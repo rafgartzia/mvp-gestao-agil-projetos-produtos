@@ -18,4 +18,6 @@ A ideia desse projeto é criação de um aplicativo para gerenciar as cantinas, 
 
 [Wireframes](/wireframe-cantina)
 
+[Vídeo de apresentação - youtube](https://www.youtube.com/watch?v=ZhwQmAzz5rk)
+
 
