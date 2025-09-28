@@ -5,7 +5,7 @@ Repositório com material da entrega do MVP - Pós Eng. Software PUC-RIO
 
 ## Cantina Escoteira
 
-No final de cada atividade escoteira é comum realizarmos cantinas. As pessoas podem lanchar após a atividade e contribuir com o Grupo Escoterio.
+No final de cada atividade escoteira é comum realizarmos cantinas. As pessoas podem lanchar após a atividade e contribuir com o Grupo Escoteiro.
 
 A ideia desse projeto é criação de um aplicativo para gerenciar as cantinas, possibilitando o controle dos itens doados, gerenciamento do consumo (comandas) e integração com WhatsApp.
 
